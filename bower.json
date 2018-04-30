@@ -1,0 +1,23 @@
+{
+  "name": "meu-site",
+  "description": "Criação de site proprio.",
+  "main": "index.js",
+  "authors": [
+    "Jefferson Silva <jeffersonsilva01bb@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "font-awesome": "^5.0.10",
+    "breakpoint-sass": "^2.7.1",
+    "bootstrap": "^4.1.0"
+  }
+}

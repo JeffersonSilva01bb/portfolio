@@ -1,0 +1,14 @@
+{
+  "name": "meu-site",
+  "version": "1.0.0",
+  "description": "Criação de site proprio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass --watch sass/ -o css/ --output-style compressed"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
